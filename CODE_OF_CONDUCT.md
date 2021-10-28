@@ -75,3 +75,5 @@ Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcem
 For answers to common questions about this code of conduct, see the FAQ at  https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.
 
 For specific Telstra questions, please reach out to our community leaders at `telstradev@team.telstra.com` or post on our forum: https://dev.telstra.com/forums/general-discussion.
+
+[homepage]: http://contributor-covenant.org
